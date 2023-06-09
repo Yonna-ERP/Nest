@@ -401,7 +401,7 @@
                 <t t-out="preference"/>
             </div>
             <div class="by_odoo">
-                Sent by <a href="https://www.zergaw.com" target="_blank" class="odoo_link"><span class="odoo_link_text">ERP</span></a>
+                Sent by <a href="https://www.nest.com" target="_blank" class="odoo_link"><span class="odoo_link_text">ERP</span></a>
                 <t t-if="unsubscribe_token">
                     –
                     <a t-attf-href="/digest/#{object.id}/unsubscribe?token=#{unsubscribe_token}&amp;user_id=#{user.id}"
