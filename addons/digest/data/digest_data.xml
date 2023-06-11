@@ -426,7 +426,7 @@
 <div class="global_layout" id="footer">
     <p style="font-weight: bold;" t-esc="company.name"/>
     <p class="by_odoo" id="powered">
-        Powered by <a href="https://www.zergaw.com" target="_blank" class="odoo_link"><span class="odoo_link_text">ETZ</span></a>
+        Powered by <a href="https://www.hybridsolutionsc.com" target="_blank" class="odoo_link"><span class="odoo_link_text">HYBRID SOLUTION</span></a>
     </p>
 </div>
 </div>
@@ -439,15 +439,15 @@
     <template id="digest_section_mobile">
 <div class="global_layout" style="overflow: auto;">
     <div style="width: 50%; float: left; text-align: right;">
-        <img src="digest/static/src/Simulator_Screen_Shot_iPhone_14_Pro_2022_12_27_at_10_24_14.png" alt="ETZ Mobile" />
+        <img src="digest/static/src/Simulator_Screen_Shot_iPhone_14_Pro_2022_12_27_at_10_24_14.png" alt="ERP Mobile" />
     </div>
     <div style="width: 50%; float: left;">
         <p class="run_business">Run your business from anywhere with <b>ERP Mobile</b>.</p>
        <!-- <div>
-            <a href="https://zergaw.com" target="_blank"><img class="download_app" src="https://www.odoo.com/digest/static/src/img/google_play.png" /></a>
+            <a href="https://hybridsolutionsc.com" target="_blank"><img class="download_app" src="https://www.odoo.com/digest/static/src/img/google_play.png" /></a>
         </div>
         <div>
-            <a href="https://zergaw.com" target="_blank"><img class="download_app" src="https://www.odoo.com/digest/static/src/img/app_store.png" /></a>
+            <a href="https://hybridsolutionsc.com" target="_blank"><img class="download_app" src="https://www.odoo.com/digest/static/src/img/app_store.png" /></a>
         </div>-->
     </div>
 </div>
